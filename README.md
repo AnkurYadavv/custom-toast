@@ -1,7 +1,7 @@
 # custom-toast
 Customized toast
 
-This project allowing you to create a custom Toast in android through simplest way.
+This project allows you to create a custom Toast in android in simplest way.
 
 Gradle
 ------
@@ -26,7 +26,7 @@ MaterialToast materialToast=new MaterialToast(MainActivity.this);
 Parameter
 ---------
 * **toast_drawable**
-    * It's a drawable xml shape that can be customized acording to requirements. Just create a xml file in drawable folder and paste the below code.
+    * It's a drawable xml shape that can be customized according to requirement. Just create a xml file in drawable folder and paste the below code.
   
 XML
 -----
